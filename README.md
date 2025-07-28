@@ -60,8 +60,3 @@ hr-analytics-project/
 📞 +91-7784922708
 
 ---
-
-## 📣 Share This!
-> Just completed an HR Analytics project using Python & ML! 📊  
-> Analyzed employee attrition and built actionable insights using logistic regression.  
-> #HRAnalytics #MachineLearning #Python #PortfolioProject #AanchalSingh
